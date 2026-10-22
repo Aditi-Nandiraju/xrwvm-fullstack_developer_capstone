@@ -1,0 +1,1 @@
+[{"_id":"6ada51754b109234a6aaf3be","id":3,"name":"Lion Reames","dealership":29,"review":"Expanded global groupware","purchase":true,"purchase_date":"10/20/2020","car_make":"Mazda","car_model":"MX-5","car_year":2003,"__v":0}]
