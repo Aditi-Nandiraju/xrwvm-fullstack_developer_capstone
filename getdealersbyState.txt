@@ -1,0 +1,5 @@
+theia@theiadocker-aditinandira:/home/project$ curl -X GET "https://aditinandira-3030.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/fetchDealers/Kansas" | tee getdealersbyState.txt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:-100   222  100   222    0     0   1383      0 --:--:-- --:--:-- --:--:--  1378
+[{"_id":"6ada51754b109234a6aaf3f6","id":8,"city":"Topeka","state":"Kansas","address":"288 Larry Place","zip":"66642","lat":"39.0429","long":"-95.7697","short_name":"Bytecard","full_name":"Bytecard Car Dealership","__v":0}]
